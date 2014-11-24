@@ -1,0 +1,34 @@
+{"text": "iPhone 6 Organic Leather Sleeve/Cover KAMPENWAND | http://t.co/hfzLavFzXF | #iPhone6 #iPhone6Plus #iPhone6Sleeve #iPhone6Cover #iPhone6Case", "id": 530046563046129664, "sentiment": "0", "features": {}}
+{"text": "@VZWnews When are iPhone 6's shipping out? I've been waiting for well over a week now :/", "id": 530046563763363840, "sentiment": "-1", "features": {}}
+{"text": "Apple iPhone 5s - 16GB - Space Gray (AT&amp;T) Smartphone USED: $190.00 (0 Bids) End Date: Thursday Nov-6-2014 9:10:19\u2026 http://t.co/sp8OqZKxAB", "id": 530046572646526976, "sentiment": "0", "features": {}}
+{"text": "Just entered to win a gold iPad Air 2 + gold iPhone 6. Enter here... https://t.co/0r7JPCaBWj via @mactrast", "id": 530046574672371712, "sentiment": "0", "features": {}}
+{"text": "#android #iphone http://t.co/9Z7pvo0IuU LG G Watch price plunges to Rs 6,849   http://t.co/Fg7IjsneOz", "id": 530046607052394496, "sentiment": "0", "features": {}}
+{"text": "Splendid iPhone cases. Check out our shop at http://t.co/2NfhYpK48o #Iphone5C #Iphone5S #Iphone6 #Iphone6plus #case #design #art #gifts", "id": 530046611775172608, "sentiment": "0", "features": {}}
+{"text": "\u201c@BlessGodSmoov: iPhone 6 battery just don't die.. \ud83d\ude4c\u201d", "id": 530046616234110977, "sentiment": "1", "features": {"battery": "1"}}
+{"text": "Getting my iPhone 6 today. \ud83d\ude1b", "id": 530046618708754432, "sentiment": "1", "features": {}}
+{"text": "Cameras on the iPhone 6 are too good", "id": 530046622043242496, "sentiment": "1", "features": {"camera": "1"}}
+{"text": "I've just entered to #WIN an iPhone 6 Plus &amp; NETGEAR R7500 AC WiFi Router. You can too http://t.co/af1NJeoyuQ", "id": 530046625054339072, "sentiment": "0", "features": {}}
+{"text": "iphone 6 case,elephant iphone 6 plus,lifelike IPhone 5c case,elephant IPhone 5 case,vivid pattern IPhone 5s case,Case http://t.co/cwnjMkOiLE", "id": 530046629584195585, "sentiment": "0", "features": {}}
+{"text": "#android #iphone http://t.co/QFMxEwhKYt TopNews: Apple iPhone 6 release date and price, and more news from Apple   http://t.co/Mnmfhy4QsB", "id": 530046645925208065, "sentiment": "0", "features": {}}
+{"text": "http://t.co/foSrrpxYdw 6 Things iPhone 6 Does That Galaxy Note 4 Can't - CIO http://t.co/RPk4JtEykr", "id": 530046648416624640, "sentiment": "0", "features": {}}
+{"text": "what the fuck iPhone 6 RM6 http://t.co/l327SFlgp1 via @sharethis", "id": 530046648693440512, "sentiment": "1", "features": {}}
+{"text": "#android #iphone http://t.co/dSMDYIgPnu 6 Social Media Sites You\u2019ve Never Heard Of (But Should Check Out)   http://t.co/IWM35DboBF", "id": 530046651319066624, "sentiment": "0", "features": {}}
+{"text": "Just entered to win an iPhone 6. Enter here... https://t.co/dWlMeCLfdq via @StackSocial", "id": 530046662731763713, "sentiment": "0", "features": {}}
+{"text": "iPhone 6 | iPhone 6 Plus Sleeve Shop | http://t.co/T4NWvBexjo | #iPhone6 #iPhone6Plus #iPhone6Sleeve #iPhone6PlusSleeve #Shop #iPhone6Cover", "id": 530046674786594816, "sentiment": "0", "features": {}}
+{"text": "@Inbarajs if ur concern about 'cost' then yeah iPhone 5s. Tapi kalau nak ikut nafsu.. Damn id go for iPhone 6 bro! \ud83d\ude04 Me think its nice.", "id": 530046677265031168, "sentiment": "1", "features": {}}
+{"text": "iPhone 6 16GB Gold (Verizon) http://t.co/MopPmJA18k", "id": 530046678800543744, "sentiment": "0", "features": {}}
+{"text": "Should get my iPhone 6 tmrw! :)", "id": 530046682155978752, "sentiment": "0", "features": {}}
+{"text": "\u201c@MyDickIsCalled: My dick is called iPhone 6 because bitches can't wait to get their hands on it.\u201d @avonsskarma", "id": 530046697762988032, "sentiment": "1", "features": {}}
+{"text": "iPhone 6 Review: http://t.co/YuXDxmhHyu via @YouTube", "id": 530046702133080064, "sentiment": "0", "features": {}}
+{"text": "Daily Deals #718445 : http://t.co/NP9YEVrqP9 Rock [Royce] For iPhone 6 Plus 5.5\" Luxury Dual Layer Protection U... http://t.co/d9fMp2CIai", "id": 530046704855576577, "sentiment": "0", "features": {}}
+{"text": "128GB iPhone 6 and 6 Plus owners reporting restart issues (http://t.co/7YpjEnk8uH) http://t.co/ZH3f9TuPli", "id": 530046710132006912, "sentiment": "-1", "features": {}}
+{"text": "AMAZING! @makeuseof is giving away TWO iPhone 6 Plus! Join the competition here! #giveaway http://t.co/8pPjM43pWr", "id": 530046719187492864, "sentiment": "0", "features": {}}
+{"text": "Cell Phones : For Apple iPhone 6 (4.7) Magnetic Wallet Flip Hard Soft Case Cover Pouch Holder ... http://t.co/f8PdHBCoYd", "id": 530046720718417920, "sentiment": "0", "features": {}}
+{"text": "Ready replika Harga Special S4,S5, Note3.Grand2 Tab3 Tab4 Tab5 NOte8 Iphone5s Iphone6 BB Z10 BB Z30 http://t.co/3x8bi7FuWg", "id": 530046723796660224, "sentiment": "0", "features": {}}
+{"text": "Cell Phones : For Apple iPhone 6 Plus 5.5 Hybrid Clear Hard TPU Shockproof Skin Case Cover ... http://t.co/AE5CXAEfx0", "id": 530046729589366784, "sentiment": "0", "features": {}}
+{"text": "I den fell in love wit dis iphone6\ud83d\ude0d", "id": 530046739626360832, "sentiment": "1", "features": {}}
+{"text": "elephant iphone 6 case,iphone 6 plus case,elephant pattern IPhone 5 case,wood elephant  - IPhone Case http://t.co/iXawWb1BAs", "id": 530046762744938498, "sentiment": "0", "features": {}}
+{"text": "#Malaysia So who are the lucky six who got to buy iPhone 6 for RM6? So jealous.", "id": 530046781061861376, "sentiment": "1", "features": {}}
+{"text": "Win an iPhone 6 with our Black Friday iPhone 6 Giveaway! http://t.co/fEuenO4Wrm http://t.co/9Ely5nCylC", "id": 530046787198136320, "sentiment": "0", "features": {}}
+{"text": "@Inbarajs iPhone 6 la.  5S is still okay but if you want the best.", "id": 530046791337529344, "sentiment": "1", "features": {}}
+{"text": "#android #iphone http://t.co/jSJaIBKiL6 Flipkart offers iPhone 6, iPhone 6 Plus, price starts Rs 53,500   http://t.co/z3agRmVk9P", "id": 530046796005785600, "sentiment": "0", "features": {}}
